@@ -240,6 +240,8 @@
   .re-info p{font-size: 21px; line-height: 40px; margin-bottom: 1.4rem;}
   .re-info h2{font-size: 30px;}
   .re-info h3{font-size: var(--Largetxt);}
+  .re-info h4{font-size: 22px;}
+  .re-info h5{font-size:20px;}
   .re-info ul{list-style: none; padding: 0px; margin: 0px;margin-bottom: 1.4rem;}
   .re-info ul li{position: relative;padding-left:20px;font-size: 21px;line-height: 40px;padding-bottom: 10px;}
   .re-info ul li::before{content:'';width: 4px;height: 4px;background: #1E1E1E;border-radius: 100%;position: absolute;left: 0px;top:1.2rem;}
