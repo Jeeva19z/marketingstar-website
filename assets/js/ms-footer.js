@@ -7,13 +7,13 @@ document.addEventListener("DOMContentLoaded", function () {
                       <div class="fnav-widget position-relative footer-logo">
                           <div class="g2-logo text-center footer-logo-group mb-3">
                               <a href="https://www.g2.com/products/marketing-star/" target="_blank" class="footer-logo-group position-relative">
-                                  <img src="assets/images/high-perfomance.svg" class="footer-logo1 ft-logo me-5" alt="G2" width="100" height="50" loading="lazy" />
-                                  <img src="assets/images/fastest-implementation.svg" class="footer-logo2 ft-logo" alt="fastest-implementatin" width="100" height="50" loading="lazy" />
+                                  <img src="assets/images/high-perfomance.svg" class="footer-logo1 ft-logo me-5" alt="G2 2025 High performer badge 1" width="100" height="50" loading="lazy" />
+                                  <img src="assets/images/fastest-implementation.svg" class="footer-logo2 ft-logo" alt="G2 2025 Fastest implementation badge" width="100" height="50" loading="lazy" />
                               </a>
                           </div>
                           <div class="g2-logo text-center footer-logo-group">
                               <a href="https://www.g2.com/products/marketing-star/" target="_blank" class="footer-logo-group position-relative">
-                                  <img src="assets/images/g2-high-performer-logo.svg" class="footer-logo3 ft-logo" alt="high-perfomance" width="100" height="50" loading="lazy" />
+                                  <img src="assets/images/g2-high-performer-logo.svg" class="footer-logo3 ft-logo" alt="G2 2025 High performer badge 2" width="100" height="50" loading="lazy" />
                               </a>
                           </div>
                       </div>
