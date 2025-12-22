@@ -756,6 +756,9 @@
   .accordion-body p {
     color: var(--WhiteClr);
   }
+  .accordion-body p a{
+    color: var(--CatClr);
+  }
 
   .faq-outer .accordion-button::after {
     background: url(../images/down-arrow-faq.svg) no-repeat center;

@@ -8,8 +8,8 @@
 
   .about-hero{padding:150px 0px 180px 0px; background: var(--NavBG) url('../images/about/about-hero-bg.svg') no-repeat top center; background-size:cover; }
   .about-hero-caption{row-gap: 1.4rem;}
-  .about-hero-caption h1{color:var(--HeroHdClr); font-size:var(--HeadingFive); font-weight:400;}
-  .about-hero-caption h2{color:var(--WhiteClr); font-weight:800;}
+  .about-hero-caption .sml-hd{color:var(--HeroHdClr); font-size:var(--HeadingFive); font-weight:400;}
+  .about-hero-caption h1{color:var(--WhiteClr); font-weight:800; font-size:var(--HeadingTwoSml);}
   .about-hero-caption p{color:var(--WhiteClr); font-weight:400; font-size: var(--Largetxt);}
 
   .wn-icon1,
