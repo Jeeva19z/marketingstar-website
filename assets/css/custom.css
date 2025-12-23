@@ -1071,9 +1071,18 @@
     line-height: 2.2rem;
   }
 
+  .clr-info h3 {
+    font-size: var(--HeadingFive);
+    margin-bottom: 30px;
+    line-height: 2.2rem;
+  }
+
   .clr-info p {
     line-height: var(--Lh38);
     color: #1E1E1E;
+  }
+  .clr-info p a{
+    color: var(--PrimaryClr);
   }
 
   .clr-info ul {
@@ -1557,6 +1566,9 @@
   .clr-info h5 {
     font-size: var(--HeadingFour);
   }
+  .clr-info h3 {
+    font-size: var(--HeadingFour);
+  }
 
   img.footer-hp-icon {
     height: 200px;
@@ -1688,6 +1700,9 @@
   }
 
   .clr-info h5 {
+    font-size: var(--HeadingTwoSml);
+  }
+  .clr-info h3 {
     font-size: var(--HeadingTwoSml);
   }
 
