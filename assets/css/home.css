@@ -123,6 +123,7 @@
     -webkit-text-fill-color: transparent;
     background-clip: text;
     text-fill-color: transparent;
+    font-size: calc(var(--HeadingThree) - 0.5rem);
   }
   .bs-widget-card p{font-size: var(--Largetxt); color:#333333;}
   .bs-widget-card a{color:#999999}

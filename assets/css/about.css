@@ -65,7 +65,7 @@
   background: linear-gradient(0deg, #FFFFFF 21.33%, #FDDED9 116.27%);
   border-radius: 30px;
 }
-
+.about-cnt h2{font-size: var(--HeadingThree);}
   
 }
 

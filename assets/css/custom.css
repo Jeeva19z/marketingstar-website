@@ -486,13 +486,15 @@
 
 
   .btn-primary,
-  .btn-secondary {
+  .btn-secondary,
+  .btn-primary-wo {
     font-size: var(--Bodytext);
     transition: all 0.5s ease;
     border-radius: 30px;
   }
 
-  .btn-primary {
+  .btn-primary,
+  .btn-primary-wo{
     border: 0px;
     padding: 9px 25px 10px 25px;
     background: var(--PrimaryClr);
@@ -503,6 +505,13 @@
   .btn-primary:focus,
   .btn-primary:active {
     background: #C83100;
+  }
+
+  .btn-primary-wo:hover,
+  .btn-primary-wo:focus,
+  .btn-primary-wo:active {
+    color: var(--PrimaryClr);
+    background:var(--WhiteClr);
   }
 
   .btn-secondary {
@@ -1651,7 +1660,8 @@
     padding-top: 10px;
   }
 
-  .btn-primary {
+  .btn-primary,
+  .btn-primary-wo {
     font-size: 16px;
   }
 

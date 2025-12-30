@@ -80,14 +80,12 @@
 .nav-link-anim li .link-arrow{color: var(--PrimaryClr);  min-width: 20px;}
 .experience-sub-nav{padding-left:35px!important;}
 
-
-
 /* Accordion mode overrides */
 @media (min-width: 1025px) {
 	#solutionTab .resp-accordion {display: none !important;}
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 960px) {
 	.resp-tabs-list {display: none;}
 }
 
