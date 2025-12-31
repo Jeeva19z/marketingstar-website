@@ -21,19 +21,19 @@ document.addEventListener("DOMContentLoaded", function () {
                       <div class="fnav-widget">
                           <div data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true"
                               aria-controls="collapseOne" role="tab" class="taber">
-                              Product
+                              Produto
                           </div>
                           <div id="collapseOne" class="accordion-collapse collapse show"
                               data-bs-parent="#accordionExample">
                               <ul>
-                                  <li><a href="email-marketing.html">Email</a></li>
-                                  <li><a href="sms-marketing.html">SMS</a></li>
+                                  <li><a href="email-marketing.html">E-mail</a></li>
+                                  <li><a href="sms-marketing.html">Mensagem de Texto</a></li>
                                   <li><a href="whatsapp-marketing.html">WhatsApp</a></li>
-                                  <li><a href="qr-code-generator.html">QR Code</a></li>
-                                  <li><a href="form-generator.html">Web Forms</a></li>
-                                  <li><a href="analytics.html">Analytics & Reporting</a></li>
-                                  <li><a href="template-builder.html">Template Builder</a></li>
-                                  <li><a href="data-enricher.html">Data Enricher</a></li>
+                                  <li><a href="qr-code-generator.html">Código QR</a></li>
+                                  <li><a href="form-generator.html">Formulários Online</a></li>
+                                  <li><a href="analytics.html">Análises e Relatórios</a></li>
+                                  <li><a href="template-builder.html">Criador de Templates</a></li>
+                                  <li><a href="data-enricher.html">Enriquecedor de Dados</a></li>
                               </ul>
                           </div>
                       </div>
@@ -41,15 +41,15 @@ document.addEventListener("DOMContentLoaded", function () {
                       <div class="fnav-widget">
                           <div data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="true"
                               aria-controls="collapseTwo" role="tab" class="taber">
-                              Solution
+                              Soluções
                           </div>
                           <div id="collapseTwo" class="accordion-collapse collapse show"
                               data-bs-parent="#accordionExample">
                               <ul>
-                                  <li><a href="explorer.html">Explorer</a></li>
-                                  <li><a href="intermediate.html">Intermediate</a></li>
-                                  <li><a href="advanced.html">Advanced</a></li>
-                                  <li><a href="industry.html">Industry</a></li>
+                                  <li><a href="explorer.html">Explorador</a></li>
+                                  <li><a href="intermediate.html">Intermediário</a></li>
+                                  <li><a href="advanced.html">Avançado</a></li>
+                                  <li><a href="industry.html">Industrial</a></li>
                               </ul>
                           </div>
                       </div>
@@ -63,7 +63,7 @@ document.addEventListener("DOMContentLoaded", function () {
                               data-bs-parent="#accordionExample">
                               <ul>
                                   <li><a href="resources.html">Blogs</a></li>
-                                  <li><a href="whats-new.html">What’s New</a></li>
+                                  <li><a href="whats-new.html">O que há de novo</a></li>
                                   <li><a href="live-webinars.html">Webinars</a></li>
                               </ul>
                           </div>
@@ -77,8 +77,8 @@ document.addEventListener("DOMContentLoaded", function () {
                           <div id="collapseFour" class="accordion-collapse collapse show"
                               data-bs-parent="#accordionExample">
                               <ul>
-                                  <li><a href="about-us.html">Our Story</a></li>
-                                  <li><a href="request-demo.html">Contact Us</a></li>
+                                  <li><a href="about-us.html">Nossa história</a></li>
+                                  <li><a href="request-demo.html">Entre em Contato</a></li>
                               </ul>
                           </div>
                       </div>
@@ -86,13 +86,13 @@ document.addEventListener("DOMContentLoaded", function () {
                       <div class="fnav-widget">
                           <div data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="true"
                               aria-controls="collapseFive" role="tab" class="taber">
-                              Pricing
+                              Planos
                           </div>
                           <div id="collapseFive" class="accordion-collapse collapse show"
                               data-bs-parent="#accordionExample">
                               <ul>
-                                  <li><a href="pricing.html">Pricing</a></li>
-                                  <li><a href="support-service.html">Support services</a></li>
+                                  <li><a href="pricing.html">Nossos preços</a></li>
+                                  <li><a href="support-service.html">Atendimento ao Cliente</a></li>
                               </ul>
                           </div>
                       </div>
@@ -134,4 +134,3 @@ document.addEventListener("DOMContentLoaded", function () {
     `; 
     document.getElementById("global-footer").innerHTML = footerHTML;
   });
-  
