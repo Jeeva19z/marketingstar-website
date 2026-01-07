@@ -26,7 +26,7 @@ Marketing Star is an all-in-one multichannel marketing automation platform desig
 
 ## Solution
 
-- [Explorer](https://www.marketingstar.io/explorer.html): The Marketing Star Explorer is designed to simplify the marketing journey for businesses by helping them choose the most effective channels and providing clear, actionable steps to get started.
+- [Explorer](https://www.marketingstar.io/beginner.html): The Marketing Star Explorer is designed to simplify the marketing journey for businesses by helping them choose the most effective channels and providing clear, actionable steps to get started.
 - [Intermediate](https://www.marketingstar.io/intermediate.html): The Marketing Star Intermediate Solution guides marketers with some experience on how to grow their business using multichannel campaigns.
 - [Advanced](https://www.marketingstar.io/advanced.html): Marketing Star Advanced Solution caters to experienced marketers seeking to maximize their campaign impact through sophisticated multichannel automation.
 - [Industry](https://www.marketingstar.io/industry.html): Marketing Star’s industry solutions showcase tailored multichannel marketing strategies designed to help businesses across various sectors achieve efficient and scalable growth.

@@ -46,7 +46,7 @@ document.addEventListener("DOMContentLoaded", function () {
                           <div id="collapseTwo" class="accordion-collapse collapse show"
                               data-bs-parent="#accordionExample">
                               <ul>
-                                  <li><a href="explorer.html">Explorador</a></li>
+                                  <li><a href="beginner.html">Explorador</a></li>
                                   <li><a href="intermediate.html">Intermediário</a></li>
                                   <li><a href="advanced.html">Avançado</a></li>
                                   <li><a href="industry.html">Industrial</a></li>
