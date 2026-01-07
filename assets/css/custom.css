@@ -2298,9 +2298,9 @@ p.new-lable-pricing-days {
     cursor: pointer;
 }
 /* hide menu lang  */
-/* li.menu-item-has-children.language-submenu {
+li.menu-item-has-children.language-submenu {
     display: none !important;
-} */
+}
 li.menu-item-has-children.language-submenu {
   position: relative;
 }
