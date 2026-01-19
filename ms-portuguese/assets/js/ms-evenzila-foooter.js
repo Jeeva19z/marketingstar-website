@@ -104,7 +104,7 @@ document.addEventListener("DOMContentLoaded", function () {
               <div class="container">
                   <div class="fb-card d-flex justify-content-between flex-wrap align-items-center">
                       <div class="copy-txt d-flex">
-                          Copyright © 2025 Marketing Star
+                          Copyright © 2026 Marketing Star
                           <div>
                               <span class="d-none d-md-inline-block">&nbsp;| </span>
                               <a href="../privacy-policy.html">Privacy Policy</a> | 
